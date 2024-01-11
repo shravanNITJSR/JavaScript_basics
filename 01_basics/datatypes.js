@@ -9,6 +9,16 @@ console.log(typeof(age));
 console.log(typeof(bag)); //object type....
 console.log(typeof(status)); //undefined type...
 
+/*
+
+1=> primitive datatype(pass by value) 
+    uses stack memory 
+    Number,String,Boolean,null,undefined,symbol... 
+
+2=> Non-primitive datatype(pass by reference)
+    uses heap memory
+    Array,Object,Functions..
+*/
 
 /*
 1=> number ranges from 2^53
